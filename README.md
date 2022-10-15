@@ -6,7 +6,7 @@ This program, which was written in Java, is connected to the MySQL server to sto
 
 The purpose of writing this software is to have the experience of creating a Java project with the respective form to have a visual screen for the program, and to be able to connect to a database and use SQL commands to manipulate the data.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/6NTTT-CGJEo)
 
 # Relational Database
 
